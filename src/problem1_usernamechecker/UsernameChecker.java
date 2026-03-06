@@ -1,3 +1,5 @@
+package problem1_usernamechecker;
+
 import java.util.*;
 
 public class UsernameChecker {

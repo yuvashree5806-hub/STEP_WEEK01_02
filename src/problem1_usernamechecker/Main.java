@@ -1,4 +1,4 @@
-import java.util.*;
+package problem1_usernamechecker;
 
 public class Main {
 
